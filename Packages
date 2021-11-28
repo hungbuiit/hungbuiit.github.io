@@ -1,13 +1,24 @@
-Package: com.hungbuiit.tiktokgod
+Package: github.io.hungbuiit.tiktokgod
 Name: TikTok God
 Version: 2.1.0
 Architecture: iphoneos-arm
 Maintainer: Hung Bui IT
 Author: Hao Nguyen 
 Depends: mobilesubstrate, preferenceloader, com.hungbuiit.libhdev (>= 4.8.1), firmware (>= 12)
-Filename: ./debs/com.hungbuiit.tiktokgod_2.1.0_iphoneos-arm.deb
+Filename: ./debs/github.io.hungbuiit.tiktokgod_2.1.0_iphoneos-arm.deb
 Size: 47232
 MD5sum: 4475ba0c8bdc169941a814d73fd809e8
 SHA1: 84a67860629ed4dd8a609052d4e380a9fd64e843
 SHA256: f1f6194b785bf9f62b287f9d6c852aed0c037a5a7e721337305f571d35a6b559
 Section: Tinh chỉnh
+
+Package: github.io.hungbuiit.libhdev
+Name: libhdev
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Hung Bui IT
+Author: Hung Bui IT
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
+Filename: ./debs/github.io.hungbuiit.libhdev_4.8.1_iphoneos-arm.deb
+Size: 46954
+Section: Hệ thống
