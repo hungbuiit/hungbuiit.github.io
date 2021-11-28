@@ -1,0 +1,12 @@
+Package: github.io.hungbuiit.tiktokgod
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: Hung Bui IT
+Installed-Size: 0
+Depends: mobilesubstrate
+Filename: ./debs/github.io.hungbuiit.tiktokgod_2.1.0_iphoneos-arm.deb
+Size: 1154
+MD5sum: 1187cb442ca3f53595b8f22dc4cbc2b2
+SHA1: 7b74e7d9bde28c7371c9a97adda78ca25c782588
+SHA256: c94104a64a3ef4b6f0a4d3fcadc41b57a410c3e13a9da73cc1b91678dad70fb3
+Section: Tinh chỉnh
