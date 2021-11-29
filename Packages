@@ -60,3 +60,21 @@ Depiction: https://hungbuiit.github.io/depictions/github.io.zebra
 Icon: https://hungbuiit.github.io/Debicon.png
 Screenshots: ./screenshots/zebra
 Name: Zebra
+
+Package: github.io.hungbuiit.hungdesign-1
+Version: 1.1.22
+Architecture: iphoneos-arm
+Maintainer: Hung Bui Design
+Depends: mobilesubstrate
+Filename: debs/github.io.hungbuiit.hungdesin-1_1.1.22_iphones-arm.deb
+Size: 10280
+MD5sum: d4531d07b257afe3cafedcc4d5a9c7a0
+SHA1: 3c86d11c8cf71ec73f50452a70a4e25e60351d44
+SHA256: 838683d8a92f4da9efbe2b54721a85f79d3d0af41b4dfee727d6358f109682c5
+Section: Chủ đề
+Description: Sóng xanh đỏ cam vàng
+Author: Hung Bui Design
+Depiction: https://hungbuiit.github.io/depictions/github.io.hungdesign-1
+Icon: https://hungbuiit.github.io/Debicon.png
+Screenshots: ./screenshots/hungdesign-1/
+Name: Hung Design 1
