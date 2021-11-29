@@ -13,12 +13,15 @@ SHA256: f1f6194b785bf9f62b287f9d6c852aed0c037a5a7e721337305f571d35a6b559
 Section: Tinh chỉnh
 
 Package: github.io.hungbuiit.libhdev
+Version: 4.8.1
 Name: libhdev
-Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: Hung Bui IT
-Author: Hung Bui IT
+Installed-Size: 316
 Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
 Filename: ./debs/github.io.hungbuiit.libhdev_4.8.1_iphoneos-arm.deb
 Size: 46954
-Section: Hệ thống
+MD5sum: 9d08e737de8d1de3bc68e27936d1a950
+SHA1: 55b91d41d587fb3ae703a6be6ee0b55c2b6f513d
+SHA256: fdcf4ba4c59c21d28ecb7b2e2d31e2b448522a9b89f8096531a33d5944f60633
+Section: Hệ Thống
