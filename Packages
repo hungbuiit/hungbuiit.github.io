@@ -1,7 +1,7 @@
 Package: github.io.hungbuiit.tiktokgod
 Version: 2.1.0
 Architecture: iphoneos-arm
-Maintainer: Hao Nguyen
+Maintainer: Hung Bui IT
 Depends: mobilesubstrate, preferenceloader, com.hungbuiit.libhdev (>= 4.8.1), firmware (>= 12)
 Filename: debs/github.io.hungbuiit.tiktokgod_2.1.0_iphones-arm.deb
 Size: 47232
@@ -10,7 +10,7 @@ SHA1: 84a67860629ed4dd8a609052d4e380a9fd64e843
 SHA256: f1f6194b785bf9f62b287f9d6c852aed0c037a5a7e721337305f571d35a6b559
 Section: Tinh chỉnh
 Description: sau khi cài có thể tải các video và những video không cho phép tải, khi tải về sẽ không có logo mặc định của tốp tốp
-Author: Hung Bui IT
+Author: Hao Nguyen
 Depiction: https://hungbuiit.github.io/depictions/github.io.tiktokgod
 Icon: https://hungbuiit.github.io/Debicon.png
 Screenshots: ./screenshots/tiktokgod
@@ -46,7 +46,7 @@ Name: Libhdev
 Package: github.io.hungbuiit.zebra
 Version: 1.1.22
 Architecture: iphoneos-arm
-Maintainer: Wilson Styres
+Maintainer: Hung Bui IT
 Depends: dpkg, uikittools, firmware (>= 9.0)
 Filename: debs/github.io.hungbuiit.zebra_1.1.22_iphones-arm.deb
 Size: 8370610
@@ -55,7 +55,7 @@ SHA1: e7b9fe3c996f339532cfa54db65fdb35af9180e7
 SHA256: 81ef07d4bbccf6fc2a94286d60153a9ad762771754e248af1ed296a03d16e8a5
 Section: Tiện ích
 Description: nó giống như cydia và sileo
-Author: Hung Bui IT
+Author: Wilson Styres
 Depiction: https://hungbuiit.github.io/depictions/github.io.zebra
 Icon: https://hungbuiit.github.io/Debicon.png
 Screenshots: ./screenshots/zebra
