@@ -27,9 +27,9 @@ SHA1: 55b91d41d587fb3ae703a6be6ee0b55c2b6f513d
 SHA256: fdcf4ba4c59c21d28ecb7b2e2d31e2b448522a9b89f8096531a33d5944f60633
 Section: Hệ Thống
 
-Package: github.io.hungbuiit.libhdev
-Version: 4.8.1
-Name: libhdev
+Package: github.io.hungbuiit.zebra
+Version: 1.1.22
+Name: Zebra
 Architecture: iphoneos-arm
 Maintainer: Wilson Styres
 Depends: dpkg, uikittools, firmware (>= 9.0)
