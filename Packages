@@ -41,7 +41,7 @@ Author: Hung Bui IT
 Depiction: https://hungbuiit.github.io/depictions/github.io.libhdev
 Icon: https://hungbuiit.github.io/Debicon.png
 Screenshots: ./screenshots/libhdev
-Name: Libhdev
+Name: libhdev
 
 Package: github.io.hungbuiit.zebra
 Version: 1.1.22
