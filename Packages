@@ -6,7 +6,8 @@ Maintainer: Hung Bui IT
 Author: Hao Nguyen 
 Depends: mobilesubstrate, preferenceloader, com.hungbuiit.libhdev (>= 4.8.1), firmware (>= 12)
 Filename: ./debs/github.io.hungbuiit.tiktokgod_2.1.0_iphoneos-arm.deb
-Depictions: ./depictions/github.io.tiktokgod/
+Depiction: https://hungbuiit.github.io/depictions/github.io.tiktokgod
+Icon: https://hungbuiit.github.io/Debicon.png
 Size: 47232
 MD5sum: 4475ba0c8bdc169941a814d73fd809e8
 SHA1: 84a67860629ed4dd8a609052d4e380a9fd64e843
@@ -20,8 +21,8 @@ Architecture: iphoneos-arm
 Maintainer: Hung Bui IT
 Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
 Filename: ./debs/github.io.hungbuiit.libhdev_4.8.1_iphoneos-arm.deb
-Depictions: ./depictions/github.io.libhdev/
-Size: 46954
+Depiction: https://hungbuiit.github.io/depictions/github.iolibhdev
+Icon: https://hungbuiit.github.io/Debicon.png
 MD5sum: 9d08e737de8d1de3bc68e27936d1a950
 SHA1: 55b91d41d587fb3ae703a6be6ee0b55c2b6f513d
 SHA256: fdcf4ba4c59c21d28ecb7b2e2d31e2b448522a9b89f8096531a33d5944f60633
@@ -34,7 +35,8 @@ Architecture: iphoneos-arm
 Maintainer: Wilson Styres
 Depends: dpkg, uikittools, firmware (>= 9.0)
 Filename: ./debs/github.io.hungbuiit.zebra_1.1.22_iphoneos-arm.deb
-Depictions: ./depictions/github.io.zebra/
+Depiction: https://hungbuiit.github.io/depictions/github.io.zebra
+Icon: https://hungbuiit.github.io/Debicon.png
 Size: 8370610
 MD5sum: 3134d77d81b67d250660d7f14ad1ef7e
 SHA1: e7b9fe3c996f339532cfa54db65fdb35af9180e7
