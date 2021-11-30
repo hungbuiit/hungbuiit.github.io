@@ -1,0 +1,17 @@
+Package: com.hungbuiit.sbhd20
+Architecture: iphoneos-arm
+Version: 1.0
+Section: iw màn hình chính
+Maintainer: Hùng Design 👩🏼‍💻 (hungbuiit) <hungbgg.ads@gmail.com>
+Depends: com.hungbuiit.repoicons, com.junesiphone.xeninfo
+Filename: ./DEB/com.hungbuiit.sbhd20_1.0_iphoneos-arm.deb
+Size: 61904
+MD5sum: 3863bb592c25f396bbc1083dcc1475b9
+SHA1: 0e45eb7b320cf9d1f24f227d4613eb5f9c596789
+SHA256: dbfc68ddfc29e03dea61190febd80d4e8815b236619ab75b6e4e2ac45d43cf9d
+SHA512: 8b0e28d7969ee9a0111b60c1e9fc89d99e363f88b26e2b46f7c41fbdd611afba01b19a766713a1386652cfd11cfa16eccceed6b130fa879f4457ae04685aa377
+Description: Tương thích trên tất cả IOS!
+Name: SB HD20
+Depiction: https://hungbuiit.github.io/depictions/?p=com.hungbuiit.sbhd20
+Author: Hùng Design👩🏼‍💻 (hungbuiit)
+

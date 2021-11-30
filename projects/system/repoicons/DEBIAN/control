@@ -1,0 +1,9 @@
+Package: com.hungbuiit.repoicons
+Name: Hungbuiit icons
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Các biểu tượng chính thức cho đại diện của Hungbuiit. Các biểu tượng thay thế dấu?.
+Depiction: https://hungbuiit.github.io/depictions/?p=com.hungbuiit.repoicons
+Maintainer: Hungbuiit <hungbgg.ads@gmail.com>
+Author: Hungbuiit
+Section: Hệ thống

@@ -1,0 +1,19 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Theo dõi tôi trên Twitter</name>
+			<url>https://twitter.com/hungbuiit</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>Báo lỗi vào email</name>
+			<url>mailto:hungbgg.ads@gmail.com</url>
+			<iconclass>fa fa-envelope-open</iconclass>
+		</link>
+		<link>
+	    <name>Ủng hộ tôi coffee/beer</name>
+	    <url>https://www.paypal.me/hungbuiit</url>
+			<iconclass>fa fa-paypal</iconclass>
+	  </link>
+	</footerlinks>
+</repo>
