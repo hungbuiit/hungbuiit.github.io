@@ -2,7 +2,7 @@ Package: com.hungbuiit.repoicons
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Hệ thống
-Maintainer: Hungbuiit <hungbgg.ads@gmail.com>
+Maintainer: Hùng Design 👩🏼‍💻 (hungbuiit)
 Filename: ./DEB/com.hungbuiit.repoicons_1.0_iphoneos-arm.deb
 Size: 585846
 MD5sum: 3cd79c4f53be62139deccda228f50bc1
@@ -12,13 +12,13 @@ SHA512: 7c77596001017a99bdb8f278e549a6dd74f08191989714e94e8903550c051f1e6039169a
 Description: Các biểu tượng chính thức cho đại diện của Hungbuiit. Các biểu tượng thay thế dấu?.
 Name: Hungbuiit icons
 Depiction: https://hungbuiit.github.io/depictions/?p=com.hungbuiit.repoicons
-Author: Hungbuiit
+Author: Hùng Design 👩🏼‍💻 (hungbuiit)
 
 Package: com.hungbuiit.sbhd20
 Architecture: iphoneos-arm
 Version: 1.0
 Section: iw màn hình chính
-Maintainer: Hùng Design 👩🏼‍💻 (hungbuiit) <hungbgg.ads@gmail.com>
+Maintainer: Hùng Design 👩🏼‍💻 (hungbuiit)
 Depends: com.hungbuiit.repoicons, com.junesiphone.xeninfo
 Filename: ./DEB/com.hungbuiit.sbhd20_1.0_iphoneos-arm.deb
 Size: 61904
